@@ -1,6 +1,21 @@
 # lowresourcecqa
 
-This repository is currently under construction.
+This is a dataset associated with the following publication:
+
+```bibtex
+@inproceedings{poerner-schutze-2019-multi,
+    title = "Multi-View Domain Adapted Sentence Embeddings for Low-Resource Unsupervised Duplicate Question Detection",
+    author = {Poerner, Nina  and Schütze, Hinrich},
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-1173",
+    doi = "10.18653/v1/D19-1173",
+    pages = "1630--1641"
+}
+```
 
 ## Data
 __data/lowresource.zip__
